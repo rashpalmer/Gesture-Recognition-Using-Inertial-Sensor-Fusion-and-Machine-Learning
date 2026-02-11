@@ -1,0 +1,19 @@
+.DS_Store
+*.asv
+*.autosave
+*.mat
+*.mex*
+*.fig
+.slxc
+
+git add .
+git commit -m "Initial commit - MATLAB gesture recognition using sensor fusion"
+git branch -M main
+git remote add origin https://github.com/rashpalmer/Gesture-Recognition-Using-Inertial-Sensor-Fusion-and-Machine-Learning.git
+git push -u origin main
+
+^X
+
+X
+
+
