@@ -1,4 +1,4 @@
-# Wrist-Worn Gesture Recognition Using Inertial Sensor Fusion and Machine Learning
+# Gesture Recognition Using Inertial Sensor Fusion and Machine Learning
 
 **BEng EEE Final Year Project — Newcastle University, 2026**
 **Author:** Rashaan Palmer
@@ -535,8 +535,6 @@ Key technical sources underpinning the implementation:
 2. Wang, M. et al. (2023). Multi-sensor integrated navigation positioning system. *Information Fusion*.
 3. Zhuang, Y. et al. (2017). Noise-aware localisation algorithms for wireless sensor networks. *Computer Communications*.
 4. Madgwick, S.O.H. (2010). An efficient orientation filter for inertial and inertial/magnetic sensor arrays. *Internal Report, University of Bristol*.
-5. OSHA (2024). Warehouse industry injury and illness data.
-6. UK HSE (2024). Workplace injury statistics.
 
 Full reference list: 29+ sources covering sensor fusion theory, Kalman filtering, industrial safety, and gesture recognition. See the project report for the complete bibliography.
 
